@@ -14,7 +14,7 @@ function changeColor () {
 }
 
 function image () {
-  document.getElementById('pic').style.display = 'block';
+  document.getElementById('pic').style.display = 'block'
 }
 
 function multi () {
@@ -24,5 +24,5 @@ function multi () {
 }
 
 function background () {
-  document.body.style.backgroundColor = 'blue';
+  document.body.style.backgroundColor = 'blue'
 }
