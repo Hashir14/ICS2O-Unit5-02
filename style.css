@@ -1,0 +1,48 @@
+body {
+  background-color: beige;
+}
+
+#text {
+  font-size:250%;
+  text-decoration: underline;
+  color: aqua
+}
+
+#button {
+  margin-right: auto;
+  margin-left: auto;
+  color: blue;
+  background-color: aquamarine;
+}
+
+#button2 {
+  margin-right: auto;
+  margin-left: auto;
+  color: blue;
+  background-color: aquamarine;
+}
+
+#button3 {
+  margin-right: auto;
+  margin-left: auto;
+  color: blue;
+  background-color: aquamarine;
+}
+
+#button4 {
+  margin-right: auto;
+  margin-left: auto;
+  color: blue;
+  background-color: aquamarine;
+}
+
+#pic {
+  display: none;
+}
+
+#button5 {
+  margin-right: auto;
+  margin-left: auto;
+  color: blue;
+  background-color: aquamarine;
+}
