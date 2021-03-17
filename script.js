@@ -22,12 +22,12 @@ function message () {
 function changeColor () {
   document.getElementById('text').style.color = 'purple'
 }
-/* In this case, the function will be applied to "changeColor" which is the name of the event listener for the HTML paragraph element which has the id of "text". */ 
+/* In this case, the function will be applied to "changeColor" which is the name of the event listener for the HTML paragraph element which has the id of "text". */
 
 function image () {
   document.getElementById('pic').style.display = 'block'
 }
-/* The "style" command tells the function command what to do to the element tag specified in the corresponding event listener. */  
+/* The "style" command tells the function command what to do to the element tag specified in the corresponding event listener. */
 
 function multi () {
   document.getElementById('extra').style.fontSize = '150%'
